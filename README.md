@@ -1,4 +1,4 @@
-# Sigma-Pluron-Khato
+# Sigma: PluronKhato
 
 **My first attempt at planet making with Kopernicus**
 
